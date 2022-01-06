@@ -1,11 +1,11 @@
 ## Verificando instalação do kubectl
 
-kubectl version --client
+`$ kubectl version --client`
 
 
 ## Iniciando o cluster
 
-minikube start --vm-driver=virtualbox
+`$ minikube start --vm-driver=virtualbox`
 
 
 ### Comandos Básicos
